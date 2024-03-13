@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": 1,
+    "image": "https://www.anques.com/wp-content/uploads/2019/07/software-development.jpg",
+    "title": "Test Series With Latest Exam Pattern"
+  },
+{
+    "id": 2,
+    "image": "https://assoftech.com/images/banner11as.jpg",
+    "title": "Get Previous Year Question Papers"
+  },
+{
+    "id": 3,
+    "image": "https://www.itnucleus.com/blogimg/india-best-software-development-company.jpg",
+    "title": "Free Mock Up Test With Quality Questions"
+  }
+]
