@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "menu": "About Us",
+    "submenu": [
+      {
+        "id": 1,
+        "submenu": "Contact",
+        "path": "/exam_details"
+      },
+      {
+        "id": 2,
+        "submenu": "Career",
+        "path": "/exam_details"
+      },
+      {
+        "id": 3,
+        "submenu": "Company Profile",
+        "path": "/exam_details"
+      },
+      {
+        "id": 4,
+        "submenu": "We Certified",
+        "path": "/exam_details"
+      },
+      {
+        "id": 5,
+        "submenu": "Why Techfeat ?",
+        "path": "/exam_details"
+      },
+      {
+        "id": 6,
+        "submenu": "Resource Team",
+        "path": "/exam_details"
+      },
+      {
+        "id": 7,
+        "submenu": "Partner",
+        "path": "/exam_details"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "menu": "Services",
+    "submenu": [
+      {
+        "id": 1,
+        "submenu": "Mobile App Development",
+        "path": "/exam_details"
+      },
+      {
+        "id": 2,
+        "submenu": "Website Development",
+        "path": "/exam_details"
+      },
+      {
+        "id": 3,
+        "submenu": "Website Redesigning",
+        "path": "/exam_details"
+      },
+      {
+        "id": 4,
+        "submenu": "UI/UX Designing",
+        "path": "/exam_details"
+      },
+      {
+        "id": 5,
+        "submenu": "Software Development",
+        "path": "/exam_details"
+      },
+      {
+        "id": 6,
+        "submenu": "E-commerce Solutions",
+        "path": "/exam_details"
+      },
+      {
+        "id": 7,
+        "submenu": "Web Hosting",
+        "path": "/exam_details"
+      },
+      {
+        "id": 8,
+        "submenu": "Portal Development",
+        "path": "/exam_details"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "menu": "Products",
+    "submenu": [
+      {
+        "id": 1,
+        "submenu": "Mo Gapa Bahi App",
+        "path": "/exam_details"
+      },
+      {
+        "id": 2,
+        "submenu": "Newsathand App",
+        "path": "/exam_details"
+      },
+      {
+        "id": 3,
+        "submenu": "BMI Calculater App",
+        "path": "/exam_details"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "menu": "Technology",
+    "path":"/exam_details"
+  },
+  {
+    "id": 5,
+    "menu": "Portfolio",
+    "path":"/exam_details"
+  }
+]
