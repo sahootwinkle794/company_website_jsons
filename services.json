@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+    "title": "Mobile App Development",
+    "path": "/exam_details"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-icons-png.flaticon.com/128/7991/7991055.png",
+    "title": "Website Development",
+    "path": "/exam_details"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn-icons-png.flaticon.com/128/11524/11524065.png",
+    "title": "Website Designing",
+    "path": "/exam_details"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn-icons-png.flaticon.com/128/12294/12294398.png",
+    "title": "Ui/Ux Designing",
+    "path": "/exam_details"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn-icons-png.flaticon.com/128/4052/4052996.png",
+    "title": "Software Development",
+    "path": "/exam_details"
+  },
+  {
+    "id": 6,
+    "image": "https://cdn-icons-png.flaticon.com/128/1162/1162456.png",
+    "title": "E-commerce Solutions",
+    "path": "/exam_details"
+  },
+   {
+    "id": 7,
+    "image": "https://cdn-icons-png.flaticon.com/128/8323/8323511.png",
+    "title": "Portal Development",
+    "path": "/exam_details"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-icons-png.flaticon.com/128/2274/2274673.png",
+    "title": "Web Hosting",
+    "path": "/exam_details"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn-icons-png.flaticon.com/128/5234/5234032.png",
+    "title": "Browser Extension",
+    "path": "/exam_details"
+  }
+]
