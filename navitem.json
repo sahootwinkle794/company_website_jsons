@@ -16,7 +16,7 @@
       {
         "id": 3,
         "submenu": "Company Profile",
-        "path": "/exam_details"
+        "path": "/company_profile"
       },
       {
         "id": 4,
