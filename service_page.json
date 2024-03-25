@@ -1,0 +1,56 @@
+{
+  "mobile_services": [
+    {
+      "id": 1,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    }
+  ],
+  "web_services": [
+    {
+      "id": 1,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    }
+  ],
+  "desktop_services": [
+    {
+      "id": 1,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    },
+    {
+      "id": 2,
+      "image": "https://cdn-icons-png.flaticon.com/128/2920/2920369.png",
+      "title": "Mobile App Development",
+      "desc_1": "Collaboratively envisioneer user friendly supply chains and cross unit imperative. Authoritativel fabricate competitive resource and holistic synergy. Uniquely generate efficient schemas before future.",
+      "desc_2": "Provide a brief overview of the app’s purpose and key features. This introduction should capture the attention of visitors and compel them to explore further. Highlight the most important features and functionalities of the app.",
+      "features": ["Easy Customize", "Fully Responsive", "Free updates", "High Quality Security", "Ultimate support", "Easy Solutions"]
+    }
+  ]
+}
