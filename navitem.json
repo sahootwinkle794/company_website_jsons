@@ -6,7 +6,7 @@
       {
         "id": 1,
         "submenu": "Contact",
-        "path": "/exam_details"
+        "path": "/contact_us"
       },
       {
         "id": 2,
@@ -47,42 +47,42 @@
       {
         "id": 1,
         "submenu": "Mobile App Development",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 2,
         "submenu": "Website Development",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 3,
         "submenu": "Website Redesigning",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 4,
         "submenu": "UI/UX Designing",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 5,
         "submenu": "Software Development",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 6,
         "submenu": "E-commerce Solutions",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 7,
         "submenu": "Web Hosting",
-        "path": "/exam_details"
+        "path": "/services"
       },
       {
         "id": 8,
         "submenu": "Portal Development",
-        "path": "/exam_details"
+        "path": "/services"
       }
     ]
   },
