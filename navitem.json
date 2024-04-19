@@ -52,17 +52,17 @@
       {
         "id": 2,
         "submenu": "Website Development",
-        "path": "/service"
+        "path": "/webservice"
       },
       {
         "id": 3,
         "submenu": "Website Redesigning",
-        "path": "/service"
+        "path": "/webservice"
       },
       {
         "id": 4,
         "submenu": "UI/UX Designing",
-        "path": "/service"
+        "path": "/webservice"
       },
       {
         "id": 5,
