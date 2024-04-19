@@ -47,42 +47,42 @@
       {
         "id": 1,
         "submenu": "Mobile App Development",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 2,
         "submenu": "Website Development",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 3,
         "submenu": "Website Redesigning",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 4,
         "submenu": "UI/UX Designing",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 5,
         "submenu": "Software Development",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 6,
         "submenu": "E-commerce Solutions",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 7,
         "submenu": "Web Hosting",
-        "path": "/services"
+        "path": "/service"
       },
       {
         "id": 8,
         "submenu": "Portal Development",
-        "path": "/services"
+        "path": "/service"
       }
     ]
   },
