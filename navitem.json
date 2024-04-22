@@ -82,7 +82,7 @@
       {
         "id": 8,
         "submenu": "Portal Development",
-        "path": "/service"
+        "path": "/portal"
       }
     ]
   },
